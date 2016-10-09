@@ -7,12 +7,13 @@ Getting Started
 
 Examples for HTML
 
-Lesson 1
+Lesson 1: Structure and Basic HTML Elements
 
 * basic.html					general structure of an HTML document
 * basic-with-doctype.html		general structure plus doctype definition
 * headlines.html				different headline styles
 * paragraph.html				basic file with headline and paragraph
 * textstyle.html				different text styles
+* code.html						typesetting program code
 
 Lesson 2
