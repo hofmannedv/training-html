@@ -7,7 +7,11 @@ Getting Started
 
 Examples for HTML
 
-* basic.html
-* basic-with-doctype.html
-* headlines.html
-* paragraph.html
+Lesson 1
+
+* basic.html					general structure of an HTML document
+* basic-with-doctype.html		general structure plus doctype definition
+* headlines.html				different headline styles
+* paragraph.html				basic file with headline and paragraph
+
+Lesson 2
