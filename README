@@ -13,8 +13,11 @@ Lesson 1: Structure and Basic HTML Elements
 * basic-with-doctype.html		general structure plus doctype definition
 * code.html						typesetting program code
 * headlines.html				different headline styles
+* image.html					including an image file
 * list.html						different list styles
 * paragraph.html				basic file with headline and paragraph
 * textstyle.html				different text styles
 
-Lesson 2
+Lesson 2: Colours
+
+* oldstyle.html					HTML with colour elements used inline
