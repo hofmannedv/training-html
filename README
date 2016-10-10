@@ -16,8 +16,10 @@ Lesson 1: Structure and Basic HTML Elements
 * image.html					including an image file
 * list.html						different list styles
 * paragraph.html				basic file with headline and paragraph
+* table.html					basic table with two columns
 * textstyle.html				different text styles
 
 Lesson 2: Colours
 
 * oldstyle.html					HTML with colour elements used inline
+
