@@ -1,0 +1,23 @@
+/* page content */
+body {
+	background: #FFFFAA;
+}
+
+.textRed {
+	color: red;
+}
+
+/* table */
+.tablePresentations {
+	width: 100%;
+	border: 1px solid black;
+	border-spacing: 0;
+	background: white;
+	position: relative;
+}
+
+/* table header */
+th {
+	background: #0000AA;
+	color: white;
+}

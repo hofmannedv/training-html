@@ -22,4 +22,5 @@ Lesson 1: Structure and Basic HTML Elements
 Lesson 2: Colours
 
 * oldstyle.html					HTML with colour elements used inline
-
+* withcss.html					HTML with CSS style sheet
+* style.css						style sheet
