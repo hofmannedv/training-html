@@ -1,0 +1,27 @@
+= Summary =
+
+Need to know:
+
+* how does an HTML element (tag) look like
+  opening: <tagname>
+  closing: </tagname>
+
+* the basic document structure of an HTML document
+  tags: html, header, body
+
+* header: document header with title and meta information
+  tags: title, meta
+
+* body: document content (selection)
+  tags: p, h1, h2, a, hr, ol, ul, li
+
+* comments:
+  <!-- comment -->
+
+* table
+  tags: th, tr, td
+
+
+Links and further reading
+
+SelfHTML: https://wiki.selfhtml.org/wiki/Startseite
