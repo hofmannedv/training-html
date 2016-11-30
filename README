@@ -24,4 +24,9 @@ Lesson 2: Getting Started with CSS
 * css-intro
   - oldstyle.html				HTML with colour elements used inline
   - withcss.html				HTML with CSS style sheet
-  - style.css					style sheet
+  - style.css					CSS style sheet
+
+* lists
+  - lists.html					HTML with CSS style sheet
+  - style.css					CSS style sheet
+
