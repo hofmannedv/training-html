@@ -3,6 +3,13 @@ body {
 	background: #FFFFFF;
 }
 
+h1 {
+	background: #0000AA;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 10px solid #0000AA;
+}
+
 .disc {
 	list-style-type: disc
 }
