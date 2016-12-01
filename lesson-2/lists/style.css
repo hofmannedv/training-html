@@ -53,3 +53,13 @@ h3 {
 	list-style-type: lower-roman
 }
 
+.list-with-image {
+	list-style-image: url(bullet-blue.png);
+	background: orange;
+	border: 10px solid orange;
+	valign: top;
+}
+
+.list-border {
+	border: 10px solid white;
+}

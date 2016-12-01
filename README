@@ -29,5 +29,6 @@ Lesson 2: Getting Started with CSS
 
 * lists
   - lists.html					HTML with CSS style sheet
+  - lists-image.html			HTML with CSS style sheet (list with image)
   - style.css					CSS style sheet
 
