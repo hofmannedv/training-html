@@ -1,0 +1,93 @@
+/* Stilvorlage von Rainer Z. Ufall <info@z.ufall.de> */
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	/* overflow: hidden; */
+	background-color: #333;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	color: white;
+	padding: 14px 16px;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: red;
+}
+
+.active {
+	background-color: darkred;
+}
+
+h1,h2 {
+	color: #ffffff; 
+	font-family: Arial; 
+	background-color: #00cc00;
+	border: 5px solid #00cc00;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	background-color: gray;
+	color: white;
+}
+
+h2 ~ p {
+	background-color: whitesmoke;
+	color: black;
+	border: 5px solid white;
+}
+
+.infobox {
+	background-color: orange;
+}
+
+table {
+	width: 100%; /* Breite der Tabelle:  100% */
+	border-collapse: collapse; /* einfacher Rahmen */
+	border-radius: 25px;
+}
+
+th {
+	text-align: center; /* Inhalt zentriert */
+	padding: 10px;      /* Platz von 10px ringsrum */
+	border-bottom: 1px solid #ddd;
+	color: white;
+	background-color: darkblue;
+}
+
+td {
+	text-align: left;   /* Inhalt linksbündig */
+	padding: 10px;      /* Platz von 10px ringsrum */
+	border-bottom: 1px solid #ddd;
+}
+
+.linkespalte {
+	text-align: right;  /* Ausrichtung rechtsbündig */
+	border-right: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+	background-color: #ccc;
+}
+
+tr:hover {
+	background-color: darkred;
+	color: white;
+}
+
