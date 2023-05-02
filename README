@@ -53,3 +53,9 @@ https://de.wikipedia.org/wiki/James_Cook
 Tricks: tricks, and workarounds
 
 * ol-roman.html					list with Roman letters
+
+php: First steps using PHP
+
+* info.php						display current date, and time
+* anmeldung.php, newsletter.php	form to sign up to a newsletter
+* eis.php, eisbestellung.php	form to order icecream
