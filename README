@@ -18,6 +18,8 @@ Lesson 1: Structure and Basic HTML Elements
 * list.html						different list styles
 * paragraph.html				basic file with headline and paragraph
 * table.html					basic table with two columns
+* table1.html					basic table with two columns, and CSS reference
+* style.css						CSS file for table1.html
 * textstyle.html				different text styles
 
 Lesson 2: Getting Started with CSS
