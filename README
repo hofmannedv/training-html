@@ -32,3 +32,18 @@ Lesson 2: Getting Started with CSS
   - lists-image.html			HTML with CSS style sheet (list with image)
   - style.css					CSS style sheet
 
+Lesson 3: Bringing HTML, CSS, and JavaScript together
+
+Content is taken from a German course, and briefly covers the life of
+captain James Cook (1728-1779). The inspiration for the content comes from 
+this Wikipedia page:
+
+https://de.wikipedia.org/wiki/James_Cook
+
+* basis.html					HTML basics
+* jamescook.html				HTML structure with headlines, and paragraphs
+* jamescook-mit-css.html		HTML referencing an external CSS
+* stilvorlage.css				CSS style sheet
+* endeavour.jpg					James Cook's boat as jpg image file
+* js.html						example HTML file referencing a JavaScript file
+* javascript.js					external JavaScript file
